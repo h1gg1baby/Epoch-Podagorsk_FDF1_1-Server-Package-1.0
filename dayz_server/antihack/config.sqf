@@ -24,8 +24,7 @@ local _owner = [ //Highest permission level
 	//[["BigEgg", "FatEgg", "TwinkieDestroyer"], "76561198115492831", true, false, true, ""], //With this example, you ONLY get admin powers if you are named "BigEgg", "FatEgg", or "TwinkieDestroyer" (case-sensitive).
 	// UNCOMMENT THE NEXT LINE AND REPLACE GUID_HERE WITH YOUR SteamGUID (64bit) https://www.steamidfinder.com/. DONT FORGET A COMMA IF YOU ADD MORE ADMINS.
 
-["", "76561198067477778", true, false, true, ""],
-["", "76561198066910299", true, false, true, ""]
+["", "76561198115492831", true, false, true, ""]
 
 ]; //---Add owners here - don't forget commas!
 
